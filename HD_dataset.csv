@@ -1,4 +1,4 @@
-HDI_rank,Country,HUMAN_DEVELOPMENT_SITUATION,Human_Development_Index,Life_expectancy_at_birth,Expected_years_of_schooling,Mean years_of_schooling,Gross_national_income_per_capita,GNI_per_capita_rank_minus_HDI_rank,HDI_rank,,
+HDI_rank,Country,HUMAN_DEVELOPMENT_SITUATION,Human_Development_Index,Life_expectancy_at_birth,Expected_years_of_schooling,Mean years_of_schooling,Gross_national_income_per_capita,GNI_per_capita_rank_minus_HDI_rank,HDI_rank2,,
 1,Switzerland,VERY HIGH ,0.962,84.0,16.5,13.9,"66,933",5,3,,
 2,Norway,VERY HIGH ,0.961,83.2,18.2,13.0,"64,660",6,1,,
 3,Iceland,VERY HIGH ,0.959,82.7,19.2,13.8,"55,782",11,2,,
@@ -190,5 +190,5 @@ HDI_rank,Country,HUMAN_DEVELOPMENT_SITUATION,Human_Development_Index,Life_expect
 189,Niger,LOW,0.400,61.6,7.0,2.1,"1,240",-3,189,,
 190,Chad,LOW,0.394,52.5,8.0,2.6,"1,364",-7,190,,
 191,South Sudan,LOW,0.385,55.0,5.5,5.7,768,-1,191,,
-192,Korea (Democratic People's Rep. of),OTHER ,..,73.3,10.8,..,..,..,..,,
+192,North Korea,OTHER ,0,73.3,10.8,..,..,..,..,,
 
